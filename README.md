@@ -4,7 +4,7 @@ LLM inference engine based on the C language.
 ## What I should develop
 1. ```.gguf``` Parser
   - Dequantizer
-3. Inference Logic for LLM
+2. Inference Logic for LLM
   - Positional Encoder
   - Feed-Forward Layer
   - Multi-Head Attention
